@@ -109,5 +109,4 @@ while True:
     while repetir not in 'SN':
         repetir = input('Deseja repetir o programa? (S/N) ').strip().upper()[0]
     if repetir == 'N':
-        break
-    
+        break    
